@@ -9,7 +9,7 @@
 
 ## Overview
 This is a simple game where you will try to guess the secret number.
-It is made throuh a course: 
+It is made through a course: 
 - The Complete JavaScript course 2023: From Zero to Expert! Udemy by Jonas Schmidtmann
 
 #### Live link https://guess-my-number-ee.netlify.app/
