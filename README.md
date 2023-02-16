@@ -15,8 +15,8 @@ It is made through a course:
 #### Live link https://guess-my-number-ee.netlify.app/
 
 ## Features
-- Each cylinder will tilt as you hover it.
-- When clicking on a cylinder an overview of precipitation for that day will appear. It will close by clicking again, or click on an other cylinder.
+- Write a number between 1 and 20 in the text-box and click "check". The screen will tell you if the number is to high, too low or invalid. You will also get a lower score for each try.
+- When you have guessed the right number, the score will be stored as highscore. It will only change if you beat the highscore again.
 
 ## Status
 The project is live, but only as a demo for my [portfolio.](https://eeheide-portfolio.netlify.app/)
